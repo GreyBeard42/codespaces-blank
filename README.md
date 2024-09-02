@@ -1,6 +1,6 @@
 # CSS TESTER
 
-This Javascript tool allows you to add CSS effects to any common HTML5 element.f
+This Javascript tool allows you to add CSS effects to any common HTML5 element.
 
 # ELEMENTS:
 
