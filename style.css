@@ -1,0 +1,6 @@
+body {
+    overflow-x: hidden;
+    text-align: center;
+    display: grid;
+    justify-content: center;
+  }
