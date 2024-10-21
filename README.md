@@ -4,6 +4,8 @@ This Javascript tool allows you to add CSS effects to any common HTML5 element.
 
 [Use on Homepage](https://greybeard42.neocities.org/javascript/cssTest/)
 
+![preview.png](preview.png)
+
 # ELEMENTS:
 
 - h1-h6
